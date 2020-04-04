@@ -54,15 +54,15 @@ docker的原理很复杂，但是上手使用可以很容易。常用的操作�
 
 **OpenCV_Contrib:** 3.4.8
 
-**Sophus:**13fb328
+**Sophus:** 13fb328
 
-**Ceres:**e51e9b46f6
+**Ceres: **e51e9b46f6
 
-**g2o:**9b41a4e
+**g2o:** 9b41a4e
 
-**DBow3:** c5ae539abd
+**DBow3:**  c5ae539abd
 
-**Pangolin:** master
+**Pangolin:**  master
 
 
 
@@ -74,4 +74,4 @@ docker的原理很复杂，但是上手使用可以很容易。常用的操作�
 
   环境路径安装在``/root``下，没有像书中建议那样全部装在3rdparty文件夹；
 
-  但是绝大部分的章节在其build子目录下都已经编译通过，参考其cmakelist可以容易找到相应的环境
+  但是绝大部分的章节在其build子目录下都已经编译通过，参考其cmakelist可以容易找到相应的环境路径。
