@@ -54,15 +54,15 @@ docker的原理很复杂，但是上手使用可以很容易。常用的操作�
 
 **OpenCV_Contrib:** 3.4.8
 
-**Sophus:** 13fb328
+**Sophus:** [13fb328](https://github.com/strasdat/Sophus)
 
-**Ceres: **e51e9b46f6
+**Ceres: ** [e51e9b46f6](https://github.com/ceres-solver/ceres-solver)
 
-**g2o:** 9b41a4e
+**g2o:** [9b41a4e](https://github.com/RainerKuemmerle/g2o)
 
-**DBow3:**  c5ae539abd
+**DBow3:**  [c5ae539abd](https://github.com/rmsalinas/DBow3)
 
-**Pangolin:**  master
+**Pangolin:**  [master](https://github.com/stevenlovegrove/Pangolin)
 
 
 
