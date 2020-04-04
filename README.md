@@ -56,7 +56,7 @@ docker的原理很复杂，但是上手使用可以很容易。常用的操作�
 
 **Sophus:** [13fb328](https://github.com/strasdat/Sophus)
 
-**Ceres: ** [e51e9b46f6](https://github.com/ceres-solver/ceres-solver)
+**Ceres:** [e51e9b46f6](https://github.com/ceres-solver/ceres-solver)
 
 **g2o:** [9b41a4e](https://github.com/RainerKuemmerle/g2o)
 
