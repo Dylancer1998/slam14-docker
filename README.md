@@ -2,9 +2,9 @@
 
 #### 旨在为想要通过十四讲入坑slam的同学打造一个快捷上手的docker环境。
 
-#### [首先致敬一下原书的repo]([https://github.com/gaoxiang12/slambook2#%E8%A7%86%E8%A7%89slam%E5%8D%81%E5%9B%9B%E8%AE%B2%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5-%E7%AC%AC%E4%BA%8C%E7%89%88](https://github.com/gaoxiang12/slambook2#视觉slam十四讲从理论到实践-第二版))
+#### 首先致敬一下原书的repo
 
-
+#### [slambook2]([https://github.com/gaoxiang12/slambook2#%E8%A7%86%E8%A7%89slam%E5%8D%81%E5%9B%9B%E8%AE%B2%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5-%E7%AC%AC%E4%BA%8C%E7%89%88](https://github.com/gaoxiang12/slambook2#视觉slam十四讲从理论到实践-第二版))
 
 **流程分为两部分，docker环境下载介绍和slam14代码运行环境使用介绍。**
 
